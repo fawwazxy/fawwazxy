@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fawwaz 👋</h1>
-<p align="center"><b>IT student · Web & mobile developer · Open to industrial training</b></p>
+<p align="center"><b>IT student · Web & mobile developer</b></p>
 <p align="center">I learn by building. Below is a collection of the systems I've made: web apps, Laravel portals, mobile apps and a hackathon project.</p>
 
 <p align="center">
